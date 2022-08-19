@@ -29,3 +29,5 @@ The confusion matrix is one of the most important assets to evaluating how a mod
 Other evaluation metrics are calucalted from the confusion matrix: Accuracy, precision, recall, f1 and many more. Some data scientists even define their own methods of evaluation.
 
 This system calculates accuracy and f1 for each of the models and displays these metrics on the console.
+
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/108581791/185659903-2f8e7dd1-f941-47bc-8d88-68cc751fcb52.png">
