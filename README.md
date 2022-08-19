@@ -4,6 +4,8 @@ Some of the CSV files could not be commited to this repo because they are so big
 
 Fraud detection dataset.
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+Second fraud detection dataset.
+https://www.kaggle.com/ealaxi/paysim1/download
 
 The aim of this repo is to describe the different uses for AI/ML. For example, the fraud detection system uses models to detect outliers/abnormal behaviour/classify whereas the Crytpo Price Predictor trains/uses models to predict pricing.
 
